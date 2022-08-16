@@ -1,0 +1,14 @@
+{
+  "name": "modext",
+  "version": "1.0.0",
+  "description": "Atividade - Fundamentos NodeJS",
+  "main": "moduloExterno.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan (@linusdan)",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
